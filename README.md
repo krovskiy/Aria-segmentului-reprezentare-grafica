@@ -6,7 +6,7 @@ Acest proiect utilizează bibliotecile `matplotlib` și `numpy` pentru a repreze
 Proiectul ilustrează modul în care putem calcula și vizualiza aria unui segment de cerc folosind Python. Utilizând `numpy` pentru calcule și `matplotlib` pentru generarea graficelor. Totodată, calculele sunt făcute anterior, deci în program integrarea este făcută prin `fill_between`
 
 ## Problema 
-
+![image](images/img_problema.jpg)
 
 ## Tehnologii utilizate
 - Python
