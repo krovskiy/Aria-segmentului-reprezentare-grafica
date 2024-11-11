@@ -24,6 +24,6 @@ Proiectul ilustrează modul în care putem calcula și vizualiza aria unui segme
    ```bash
    python main.py
 ## Mulțumiri
-**Profesor**: IONESCU Viorel - pentru elaborarea problemei!
-**Coleg**: CORLĂTEANU Igor - pentru ajutor! :)
+- **Profesor**: IONESCU Viorel - pentru elaborarea problemei!
+- **Coleg**: CORLĂTEANU Igor - pentru ajutor! :)
 
