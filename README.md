@@ -8,7 +8,7 @@ Proiectul ilustrează modul în care putem calcula și vizualiza aria unui segme
 ## Problema 
 ![image](images/img_problema.jpg)
 
-## Tehnologii utilizate
+## Platforma și instrumentele
 - Python
 - Matplotlib
 - Numpy
