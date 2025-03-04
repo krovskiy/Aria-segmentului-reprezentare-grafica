@@ -17,7 +17,7 @@ Proiectul ilustrează modul în care putem calcula și vizualiza aria unui segme
 1. Clonează acest repository:
    ```bash
    git clone https://github.com/krovskiy/Aria-segmentului-reprezentare-grafica.git
-2. Instalează dependințele:
+2. Instalează dependențele:
    ```bash
    pip install -r requirements.txt
 4. Rulează programul:
